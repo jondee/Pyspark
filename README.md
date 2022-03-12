@@ -15,4 +15,4 @@ Files are retreived from MapR cluster and then processed by pySpark into an Ente
   Used JDBC 
 
 # how to run 
-  python3 <name offile>.py
+  python3 file.py
